@@ -3,3 +3,5 @@ Hello World!
 GoodBye world!
 line from user2
 line from user1
+line foom user1 - lesson about rebase
+
